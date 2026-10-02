@@ -1,0 +1,884 @@
+[
+  {
+    "paper_id": "P003",
+    "title": "PrivTune: Efficient and Privacy-Preserving Fine-Tuning of Large Language Models via Device-Cloud Collaboration",
+    "index_year": 2026,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "可信机器学习",
+      "大语言模型与智能体",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://doi.org/10.1109/infocom59046.2026.11571688"
+  },
+  {
+    "paper_id": "P004",
+    "title": "Big2Small: A Unifying Neural Network Framework for Model Compression",
+    "index_year": 2026,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "http://arxiv.org/abs/2603.29768"
+  },
+  {
+    "paper_id": "P005",
+    "title": "Adapting Large Language Models for Encrypted Traffic Analysis Services: An Efficient Realization With Mixture of LoRA Experts",
+    "index_year": 2026,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "大语言模型与智能体",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/tsc.2026.3671484"
+  },
+  {
+    "paper_id": "P019",
+    "title": "Scaling Metadata-Private Messaging Under Hardware Trust",
+    "index_year": 2026,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P020",
+    "title": "O-TSN: Enabling Oblivious Traffic Switch for Time-Sensitive Networking",
+    "index_year": 2026,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P024",
+    "title": "When Good Becomes Evil: Exploring Crosstalk Attack Surfaces on Multi-Port USB Chargers",
+    "index_year": 2025,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P026",
+    "title": "SenFEED: Dynamic Decentralized Oracle Services for Accurate and Real-Time Sensor Data",
+    "index_year": 2025,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P027",
+    "title": "Scaling SCIERA: A Journey Through the Deployment of a Next-generation Network",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P037",
+    "title": "HarDTAPE: Hardware Dedicated Trusted transAction Pre-Executor",
+    "index_year": 2025,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P038",
+    "title": "H2O2RAM: A High-Performance Hierarchical Doubly Oblivious RAM",
+    "index_year": 2025,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P039",
+    "title": "FedMobile: Enabling Knowledge Contribution-aware Multi-modal Federated Learning with Incomplete Modalities",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P041",
+    "title": "Do Not Skip Over the Offline: Verifiable Silent Preprocessing From Small Security Hardware",
+    "index_year": 2025,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P042",
+    "title": "Deploying Intrusion Detection on In-Vehicle Networks: Challenges and Opportunities",
+    "index_year": 2025,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P045",
+    "title": "AutoCut: Multi-Objective Offloading Service for Heterogeneous DNN in Internet of Things",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P050",
+    "title": "DWare: Cost-Efficient Decentralized Storage With Adaptive Middleware",
+    "index_year": 2024,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P138",
+    "title": "Advancing Cloud-Native Cyber Threat Detection with Graph-Based Feature Engineering",
+    "index_year": 2025,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/icde65448.2025.00321"
+  },
+  {
+    "paper_id": "P139",
+    "title": "Modelling Concurrent RTP Flows for End-to-end Predictions of QoS in Real Time Communications",
+    "index_year": 2024,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://doi.org/10.1109/ism63611.2024.00015"
+  },
+  {
+    "paper_id": "P141",
+    "title": "One Is Enough: Efficient Modeling of RTP Traffic for QoS Predictions in Real-Time Communications",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/ton.2025.3649980"
+  },
+  {
+    "paper_id": "P142",
+    "title": "Debunking Reinforcement Learning for Bandwidth Estimation in Real-Time Communications: When a Simple Regressor Suffices",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.23919/cnsm67658.2025.11297463"
+  },
+  {
+    "paper_id": "P143",
+    "title": "Packet Loss in Real-Time Communications: Can ML Tame Its Unpredictable Nature?",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "可信机器学习",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/tnsm.2024.3442616"
+  },
+  {
+    "paper_id": "P144",
+    "title": "Delay-Aware Reinforcement Learning for O-RAN Control Under Stochastic Reward Feedback",
+    "index_year": 2026,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://scholars.cityu.edu.hk/en/publications/delay-aware-reinforcement-learning-for-o-ran-control-under-stocha/"
+  },
+  {
+    "paper_id": "P145",
+    "title": "Distributed Online Convex Optimization With Nonseparable Costs and Constraints",
+    "index_year": 2026,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://arxiv.org/abs/2602.10452"
+  },
+  {
+    "paper_id": "P149",
+    "title": "Digital twin-based driver risk-aware predictive mobility analytics for real-time situational awareness through cooperative sensing",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://scholars.cityu.edu.hk/en/publications/digital-twin-based-driver-risk-aware-predictive-mobility-analytic/"
+  },
+  {
+    "paper_id": "P152",
+    "title": "Digital twin-enhanced wireless indoor navigation: Achieving efficient environment sensing with zero-shot reinforcement learning",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2306.06766"
+  },
+  {
+    "paper_id": "P153",
+    "title": "Multi-level traffic-responsive tilt camera surveillance through predictive correlated online learning",
+    "index_year": 2024,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://arxiv.org/abs/2408.02208"
+  },
+  {
+    "paper_id": "P154",
+    "title": "Decision-dominant strategic defense against lateral movement for 5G zero-trust multi-domain networks",
+    "index_year": 2024,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://link.springer.com/chapter/10.1007/978-3-031-53510-9_2"
+  },
+  {
+    "paper_id": "P155",
+    "title": "Age-aware big data query evaluation for analytic services in serverless edge clouds",
+    "index_year": 2026,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P156",
+    "title": "A fast approximation algorithm for the top-K group betweenness centrality",
+    "index_year": 2026,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P157",
+    "title": "DT-empowered, social-aware service provisioning in edge computing",
+    "index_year": 2026,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "安全与隐私",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P158",
+    "title": "Enabling streaming analytics for digital twin applications in mobile edge computing networks",
+    "index_year": 2026,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P159",
+    "title": "Digital twin freshness maximization in edge computing",
+    "index_year": 2026,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P160",
+    "title": "Joint optimization of model retraining and inference services in DT-assisted edge computing",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P161",
+    "title": "QoE-aware task executions on service models in DT-assisted edge computing",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P162",
+    "title": "Efficient and fault tolerant data stream processing with uncertain data rates in serverless edge computing",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P163",
+    "title": "Inference service fidelity maximization in DT-assisted edge computing",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P164",
+    "title": "Information sharing in multi-tenant metaverse via intent-driven multicasting",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P165",
+    "title": "Privacy-enhanced healthcare monitoring service refreshment in human digital twin-assisted fabric metaverse",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "安全与隐私",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制",
+      "生物医学AI"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P166",
+    "title": "Fidelity-aware inference services in DT-assisted edge computing via service model retraining",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P167",
+    "title": "Profit maximization of delay-sensitive, differential accuracy inference services in mobile edge computing",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P168",
+    "title": "Deep reinforcement learning for mobility-aware digital twin migrations in edge computing",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P169",
+    "title": "Approximation algorithm and applications for connected submodular function maximization problems",
+    "index_year": 2024,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P170",
+    "title": "AoI-aware inference services in edge computing via digital twin network slicing",
+    "index_year": 2024,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P171",
+    "title": "Budget-constrained digital twin synchronization and its application on fidelity-aware queries in edge computing",
+    "index_year": 2024,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P172",
+    "title": "AoI-aware service provisioning in edge computing for digital twin network slicing requests",
+    "index_year": 2024,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P173",
+    "title": "Spotlighter: backup age-guaranteed immersive virtual vehicle service provisioning in edge-enabled vehicular metaverse",
+    "index_year": 2024,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P174",
+    "title": "Reliable or green? continual individualized inference provisioning in fabric metaverse via multi-exit acceleration",
+    "index_year": 2024,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P175",
+    "title": "Mobility-aware service provisioning in edge computing via digital twin replica placements",
+    "index_year": 2024,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P176",
+    "title": "XORbit: bypassing update and repair penalties in Erasure-Coded KV stores via dynamic decoupling",
+    "index_year": 2026,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P177",
+    "title": "Minimizing PoI monitoring intervals with multiple UAVs in disaster areas",
+    "index_year": 2026,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P178",
+    "title": "Keep fresh digital twins in UAV-assisted IoT networks by exploiting data correlations",
+    "index_year": 2026,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P179",
+    "title": "Freshness-aware inference services in edge computing via offloading or local processing",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P180",
+    "title": "Weighted monitoring interval minimization for disaster surveillance with a UAV",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P181",
+    "title": "Improving the freshness of digital twins in edge computing",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P182",
+    "title": "Utility maximization of multi-federated learning in edge computing with personalized privacy preservation",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "安全与隐私",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P183",
+    "title": "An Adaptive Sampling Algorithm for the Top-K Group Betweenness Centrality",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P184",
+    "title": "Social-aware DT-assisted service provisioning in serverless edge computing",
+    "index_year": 2024,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "安全与隐私",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P189",
+    "title": "Learning from Spatio-Temporal Data in the LLM Era: Foundations, Models, and Emerging Trends",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "大语言模型与智能体",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P191",
+    "title": "MuSeR: Scalable Long-sequence Recommendation with Multi-interest Modeling",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P200",
+    "title": "Exploring Bus Stop Mobility Pattern with Temporal Variation: A Multi-Period Prediction Framework",
+    "index_year": 2026,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P233",
+    "title": "AEGI: Anchor Event Guided Inference for TKGQA",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "大语言模型与智能体",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P234",
+    "title": "SONATA: Synergistic Coreset Informed Adaptive Temporal Tensor Factorization",
+    "index_year": 2026,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P252",
+    "title": "Boosting Fine-Grained Urban Flow Inference via Lightweight Architecture and Focalized Optimization",
+    "index_year": 2026,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P260",
+    "title": "UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P264",
+    "title": "CTKGRec: A Context-Aware Temporal Knowledge Graph Reasoning Model for Next POI Recommendation",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P275",
+    "title": "Tackling Data Heterogeneity in Federated Time Series Forecasting",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "安全与隐私",
+      "可信机器学习",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P283",
+    "title": "A Multi-Expert Structural-Semantic Hybrid Framework for Unveiling Historical Patterns in Temporal Knowledge Graphs",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "大语言模型与智能体",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P288",
+    "title": "LSRP: A Leader-Subordinate Retrieval Framework for Privacy-Preserving Cloud-Device Collaboration",
+    "index_year": 2025,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "推荐、搜索与个性化",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P289",
+    "title": "Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P290",
+    "title": "Put Teacher in Student’s Shoes: Cross-Distillation for Ultra-compact Model Compression Framework",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "大语言模型与智能体",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P296",
+    "title": "DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P313",
+    "title": "GARLIC: GPT-Augmented Reinforcement Learning with Intelligent Control for Vehicle Dispatching",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "大语言模型与智能体",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P315",
+    "title": "POI-Enhancer: An LLM-based Semantic Enhancement Framework for POI Representation Learning",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  }
+]
